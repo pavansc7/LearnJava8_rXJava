@@ -1,0 +1,6 @@
+flight1 bangalore 101 spiceJet 50 2017-01-13 23:08 gate1 india ON_TIME
+flight2 moscow 102 indian 51 2017-01-14 01:20 gate2 russia DELAYED
+flight3 bangalore 103 spiceJet 50 2017-01-13 23:08 gate1 india ON_TIME
+flight4 bangalore 104 spiceJet 51 2017-01-13 23:08 gate1 india ON_TIME
+flight5 bangalore 105 spiceJet 53 2017-01-13 23:08 gate1 india ON_TIME
+flight6 bangalore 130 spiceJet 130 2017-01-13 23:08 gate1 india ON_TIME
